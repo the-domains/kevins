@@ -1,6 +1,6 @@
 name: kevins
 favicon: null
-layout_spectrum: 0.3128888248465955
+layout_spectrum: 0.50078
 typography_spectrum: 0.5341993502806872
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.43149207322858274
+    - '#000000'
+    - '#ffffff'
+    - '#dbdbdb'
+    - '#404040'
+    - '#707070'
+  brandStrength: 0.5
   lightness: 0.7298564754892141
-  saturation: 0.5439945885445923
-  rhythmicContrast: 0.5526659053284675
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
